@@ -1,0 +1,20 @@
+{
+  "Image-only": {
+    "accuracy": 0.8333333333333334,
+    "precision_macro": 0.8496445558820993,
+    "recall_macro": 0.8333333333333334,
+    "f1_macro": 0.8354324042003409
+  },
+  "Text-only": {
+    "accuracy": 0.8333333333333334,
+    "precision_macro": 0.8696659392311566,
+    "recall_macro": 0.8333333333333334,
+    "f1_macro": 0.8391276761838325
+  },
+  "Image+Text Fusion": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0
+  }
+}

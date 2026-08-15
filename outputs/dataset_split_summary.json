@@ -1,0 +1,14 @@
+{
+  "total_samples": 800,
+  "train": 560,
+  "val": 120,
+  "test": 120,
+  "classes": [
+    "Books",
+    "Electronics",
+    "Fashion",
+    "Footwear",
+    "Furniture"
+  ],
+  "tfidf_vocab_size": 300
+}

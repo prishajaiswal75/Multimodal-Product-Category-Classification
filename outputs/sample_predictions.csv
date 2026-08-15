@@ -1,0 +1,11 @@
+text,true_label,predicted_label,correct
+Affordable cookbook by Corex (paperback edition),Books,Books,True
+Strydo affordable textbook - hardcover,Books,Books,True
+Lightweight cookbook by Strydo (bestseller),Books,Books,True
+"Strydo wireless earbuds, lightweight, aluminium body",Electronics,Electronics,True
+"Woodline tablet, modern, aluminium body",Electronics,Electronics,True
+Premium wireless earbuds by Nubex (fast charging),Electronics,Electronics,True
+Nubex - great value for money,Fashion,Fashion,True
+"Urbanest dining table, affordable, cushioned seat",Furniture,Furniture,True
+Fleetfoot bestselling sandals - breathable fabric,Footwear,Footwear,True
+Modern office chair by Urbanest (engineered oak),Furniture,Furniture,True
